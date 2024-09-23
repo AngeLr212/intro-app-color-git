@@ -1,3 +1,5 @@
+//COMENTARIO PRUEBA
+
 document.addEventListener('DOMContentLoaded', () => {
     const redRange = document.getElementById('redRange');
     const greenRange = document.getElementById('greenRange');
